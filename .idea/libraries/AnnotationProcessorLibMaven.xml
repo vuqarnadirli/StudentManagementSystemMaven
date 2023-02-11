@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnnotationProcessorLibMaven">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AnnotationProcessorLibMaven/out/artifacts/AnnotationProcessorLibMaven_jar/AnnotationProcessorLibMaven.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
